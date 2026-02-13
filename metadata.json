@@ -1,0 +1,7 @@
+{
+  "name": "Air Magic Interaction System",
+  "description": "A vision-based HCI system for hands-free screen capture and cross-device transfer using gesture recognition.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
